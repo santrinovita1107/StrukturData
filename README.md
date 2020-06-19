@@ -1,4 +1,4 @@
 # StrukturData
-Dokumentasi praktikum mata kuliah struktur data oleh santri novita
+Dokumentasi praktikum mata kuliah struktur data 
 Santri Novita
 Uin-Ar-Raniry
